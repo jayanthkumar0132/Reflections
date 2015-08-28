@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+By viewing a diff b/n two versions of a file we can get changes b/n those
+two files. so now we need to go through those differences to find the bug which is far easier now.
+
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+having access to entire history helps if we get an error in our present file.
+then we can easily go back to old versions through the history.
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Manually saving helps you create versions with logical changes rather than doing
+it when not required. where as having versions saved automatically helps if we forget
+committing manually but it saves illogically.
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+version control systems allow saving multiple files in one commit because all the files
+in that are interconnected to each other. Changing one might effect other where as it is
+not in the case of google docs so they treat each file separately.
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+git log gives you the info of all the commits done with commit id and messages
+where as git diff gives the changes done b/n the two commits.
+
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+using version control makes me more confident to make changes because if i make any mistakes
+then i can get back to older versions where it was working properly.
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git for storing my projects history - maybe web dev or game or android or any other
+ project which is big.
